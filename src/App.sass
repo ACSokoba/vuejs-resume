@@ -7,13 +7,13 @@ $large-start-breakpoint: 1001px
 $large-end-breakpoint: 1200px
 $larger-start-breakpoint: 1201px
 @mixin custom-app-responsiveness
-    @media ($small-start-breakpoint) and ($small-end-breakpoint)
+    @media (min-width: $small-start-breakpoint) and (max-width: $small-end-breakpoint)
         max-width: 100%
-    @media ($medium-start-breakpoint) and ($medium-end-breakpoint)
+    @media (min-width: $medium-start-breakpoint) and (max-width: $medium-end-breakpoint)
         max-width: 70%
-    @media ($large-start-breakpoint) and ($large-end-breakpoint)
+    @media (min-width: $large-start-breakpoint) and (max-width: $large-end-breakpoint)
         max-width: 70%
-    @media ($larger-start-breakpoint)
+    @media (min-width: $larger-start-breakpoint)
         max-width: 45%
 
 .app
