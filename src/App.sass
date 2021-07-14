@@ -1,12 +1,20 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200&display=swap")
-
+$small-start-breakpoint: 0px
+$small-end-breakpoint: 800px
+$medium-start-breakpoint: 801px
+$medium-end-breakpoint: 1000px
+$large-start-breakpoint: 1001px
+$large-end-breakpoint: 1200px
+$larger-start-breakpoint: 1201px
 @mixin custom-app-responsiveness
-    @media (min-width: 0px) and (max-width: 800px)
+    @media ($small-start-breakpoint) and (small-end-breakpoint)
         max-width: 100%
-    @media (min-width: 801px) and (max-width: 1000px)
-        max-width: 60%
-    @media (min-width: 1001px)
-        max-width: 60%
+    @media ($medium-start-breakpoint) and ($medium-end-breakpoint)
+        max-width: 70%
+    @media ($large-start-breakpoint) and ($large-end-breakpoint)
+        max-width: 70%
+    @media ($larger-start-breakpoint)
+        max-width: 45%
 
 .app
     font-family: sans-serif

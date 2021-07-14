@@ -4,7 +4,7 @@
       <img src="../../assets/images/pp.png" class="profile-picture" />
     </div>
     <div class="title col-8">
-      <div class="name">Sokoba Aboubakar Christian</div>
+      <h3>Sokoba Aboubakar Christian</h3>
       <h1>Fullstack Developer</h1>
       <div class="infos">
         <p>
@@ -17,7 +17,7 @@
   </header>
   <div class="description">
     Hi, i'm a fullstack software engineer based in Paris. I'm mainly proficient
-    in frontend. I'm passionate about coding and new technologies. This is a
+    in frontend. I'm passionate about coding, new technologies and anything tech-related. This is a
     minimalist personal page where i sum-up my experience, subjects i've worked
     on and techno i've used.
   </div>
