@@ -1,0 +1,61 @@
+
+@mixin custom-app-responsiveness
+    @media (min-width: 0px) and (max-width: 800px)
+        display: flex
+        flex-direction: column
+        align-items: center
+        justify-content: center
+    @media (min-width: 801px) and (max-width: 1000px)
+        display: flex
+        flex-direction: row
+        align-items: center
+        justify-content: center
+    @media (min-width: 1001px)
+        display: flex
+        flex-direction: row
+        align-items: center
+        justify-content: center
+
+header
+    background-color: rgba(252, 250, 250, 0.945)
+    @include custom-app-responsiveness
+
+.title
+
+    // display: flex
+    // justify-content: center
+    font-family: Roboto
+    @media (min-width: 0px) and (max-width: 800px)
+        text-align: center
+    @media (min-width: 801px) and (max-width: 1000px)
+        text-align: start
+    @media (min-width: 1001px)
+        text-align: start
+
+    a
+        &:link
+            color: black
+        &:hover
+            color: #6797ff
+
+    .name
+        text-align: start
+        font-size: smaller
+
+    .infos
+        display: flex
+        flex-direction: row
+
+.description
+    text-align: start
+    font-family: 'Poppins'
+    margin-top: 30px
+
+.profile-picture
+    border-radius: 50%
+    max-width: 50%
+
+.Header
+    padding: 15px
+    // @media (min-width: 0px) and (max-width: 700px)
+    //     flex-direction: column
