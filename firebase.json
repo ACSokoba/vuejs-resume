@@ -6,9 +6,6 @@
       "**/.*",
       "**/node_modules/**"
     ],
-    "hosting": {
-      "site": "acsokoba",
-      "public": "public"
-    }
+    "site": "acsokoba"
   }
 }
