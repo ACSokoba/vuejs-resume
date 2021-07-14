@@ -1,7 +1,6 @@
-# Vue 3 + Typescript + Vite
+# Personal Page
 
-This template should help get you started developing with Vue 3 and Typescript in Vite.
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d59d2050-5e95-4add-8e9a-9432f5905d97/deploy-status)](https://app.netlify.com/sites/acsokoba/deploys)
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur). Make sure to enable `vetur.experimental.templateInterpolationService` in settings!
