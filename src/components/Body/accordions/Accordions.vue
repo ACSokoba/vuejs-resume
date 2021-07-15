@@ -9,23 +9,23 @@
           <span>jan 2020 - today</span>
         </b>
         <br /><br />
-        <span>&#8729;</span> Fullstack developer on the digital customer area in
+        <span>&#8226;</span> Fullstack developer on the digital customer area in
         an agile SAFe framework:
         <br />
-        <span>&#8729;</span> Development, mainly front-end, of a dozen of
+        <span>&#8226;</span> Development, mainly front-end, of a dozen of
         customer journey on projects with important business value:
         Implementation of business needs, integration of UI / UX templates.
         Evolution on a modular Angular architecture: lazy-loading, one feature
         team one front-end module type of organization, structured CI/CD etc
         <br />
-        <span>&#8729;</span> Backend development in NodeJS on a REST
+        <span>&#8226;</span> Backend development in NodeJS on a REST
         microservices architecture
         <br />
-        <span>&#8729;</span> Code migration for Angular upgrades, bug fixes
+        <span>&#8226;</span> Code migration for Angular upgrades, bug fixes
         Refactoring, improvement of existing code, writing and implementation of
         unit tests and integration tests
         <br />
-        <span>&#8729;</span> Helped with the onboarding of new interns /
+        <span>&#8226;</span> Helped with the onboarding of new interns /
         developers in the team in particular by writing a starter-kit
         <br /><br />
         <b>Technical environment : </b> Angular 11, Nodejs 14, Javascript,
@@ -40,14 +40,14 @@
           <span>apr 2019 - sept 2019</span>
         </b>
         <br /><br />
-        <span>&#8729;</span> Project to redesign a network data decoding
+        <span>&#8226;</span> Project to redesign a network data decoding
         application (ASN.1)<br />
-        <span>&#8729;</span> Need analysis: functions of the existing
+        <span>&#8226;</span> Need analysis: functions of the existing
         application, new functions to be implemented, new GUI. <br />
-        <span>&#8729;</span> Choice of MEAN Stack: MongoDB, Express, Angular,
+        <span>&#8226;</span> Choice of MEAN Stack: MongoDB, Express, Angular,
         NodeJS <br />
-        <span>&#8729;</span> UML modeling, class diagram <br />
-        <span>&#x2219;</span> Implementation of the abstract factory design
+        <span>&#8226;</span> UML modeling, class diagram <br />
+        <span>&#8226;</span> Implementation of the abstract factory design
         pattern for reusability, durability and application flexibility <br />
         <br />
         <b>Technical environment : </b> Angular 8, Nodejs, Typescript, Git, Html
