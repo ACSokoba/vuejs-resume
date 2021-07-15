@@ -47,7 +47,7 @@
         <span>&#8729;</span> Choice of MEAN Stack: MongoDB, Express, Angular,
         NodeJS <br />
         <span>&#8729;</span> UML modeling, class diagram <br />
-        <span>&#8729;</span> Implementation of the abstract factory design
+        <span>&#x2219;</span> Implementation of the abstract factory design
         pattern for reusability, durability and application flexibility <br />
         <br />
         <b>Technical environment : </b> Angular 8, Nodejs, Typescript, Git, Html
