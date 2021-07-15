@@ -1,5 +1,6 @@
 import { ref, defineComponent } from "vue";
-export default defineComponent({
+import Experience from "./accordions/Accordions.vue"
+export default {
   name: "Body",
   //   props: {
   //     title: {
@@ -7,6 +8,9 @@ export default defineComponent({
   //       required: true,
   //     },
   //   }
+  components:{
+    "experience-section": Experience
+  },
   props: {
   }
-});
+}

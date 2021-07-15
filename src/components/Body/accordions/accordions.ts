@@ -1,15 +1,11 @@
 import { ref, defineComponent } from "vue";
-export default defineComponent({
-  name: "Header",
+export default {
+  name: "Experience",
   //   props: {
   //     title: {
   //       type: String,
   //       required: true,
   //     },
   //   }
-  props: {
-  },
-  data() {
-    return {}
-  }
-});
+  props: {},
+};

@@ -1,6 +1,6 @@
 <template>
-  <div></div>
+  <experience-section></experience-section>
 </template>
 
 <script src="./body.ts"></script>
-<style src="./body.scss"></style>
+<style src="./body.sass"></style>

@@ -1,24 +1,26 @@
 <template >
-  <transition name="slide-fade">
-    <div class="container app">
-      <Header/>
-      <Body/>
-    </div>
-  </transition>
+  <div class="container app">
+    <app-header></app-header>
+    <app-body></app-body>
+    <app-footer></app-footer>
+  </div>
 </template>
 
 <script lang="ts">
 import { defineComponent } from "vue";
 import Header from "./components/Header/Header.vue";
 import Body from "./components/Body/Body.vue";
+import Experience from "./components/Body/accordions/Accordions.vue";
+import Footer from "./components/Footer/Footer.vue";
 
-export default defineComponent({
+export default {
   name: "App",
   components: {
-    Header,
-    Body,
+    "app-header": Header,
+    "app-body": Body,
+    "app-footer": Footer,
   },
-});
+};
 </script>
 
 <style src="./App.sass">

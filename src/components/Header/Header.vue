@@ -8,7 +8,7 @@
       <h1>Fullstack Developer</h1>
       <div class="infos">
         <p>
-          <a class="pr-2" href="mailto:sokobachristian@yahoo.fr"
+          <a style="padding-right: 8px" href="mailto:sokobachristian@yahoo.fr"
             >sokobachristian@yahoo.fr</a>
           <span>&#8729;</span>
           <a class="px-2" href="tel:+33781657490">+33 7 81 65 74 90</a>
