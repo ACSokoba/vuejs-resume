@@ -1,5 +1,5 @@
 <template>
-    <div class="my-4" style="font-family: Roboto; font-size: smaller">
+    <div class="my-4" style="font-family: Roboto; font-size: smaller; color: grey">
         <b>Made with vue3 and Sass</b>
     </div>
 </template>
