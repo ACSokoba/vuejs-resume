@@ -21,10 +21,10 @@
     </div>
   </header>
   <div class="description">
-    Hi, i'm a fullstack software engineer based in Paris. I'm mainly proficient
-    in frontend. I'm passionate about coding, new technologies and anything
+    Hi, I am a fullstack software engineer based in Paris, mainly proficient
+    in frontend. I am passionate about coding, new technologies and anything
     tech-related. This is a minimalist personal page where i sum up my
-    experience, subjects i've worked on and techno i've used.
+    experience, subjects I have worked on and the tech stacks I used.
   </div>
 </template>
 
