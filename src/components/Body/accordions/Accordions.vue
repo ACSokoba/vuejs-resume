@@ -1,6 +1,6 @@
 <template>
   <div class="c">
-    <input type="checkbox" id="experience-section" checked />
+    <input type="checkbox" id="experience-section" checked class="section-input" />
     <h3><label for="experience-section">Experience</label></h3>
     <div class="p">
       <p>
@@ -56,7 +56,7 @@
     </div>
   </div>
   <div class="c">
-    <input type="checkbox" id="education-section" checked/>
+    <input type="checkbox" id="education-section" checked class="section-input"/>
     <h3><label for="education-section">Education</label></h3>
     <div class="p">
       <p>

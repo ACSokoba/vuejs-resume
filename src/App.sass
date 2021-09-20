@@ -7,6 +7,7 @@ $large-start-breakpoint: 1001px
 $large-end-breakpoint: 1200px
 $larger-start-breakpoint: 1201px
 
+
 @mixin custom-app-responsiveness
     @media (min-width: $small-start-breakpoint) and (max-width: $small-end-breakpoint)
         max-width: 100%
@@ -28,3 +29,4 @@ $larger-start-breakpoint: 1201px
 
 .app.container
     @include custom-app-responsiveness
+
