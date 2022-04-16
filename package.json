@@ -6,6 +6,7 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "@babel/core": "^7.17.9",
     "@popperjs/core": "^2.11.5",
     "pnpm": "^6.32.7",
     "vue": "^3.2.33"
