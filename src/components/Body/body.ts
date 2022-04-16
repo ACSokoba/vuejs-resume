@@ -1,4 +1,3 @@
-import { ref, defineComponent } from "vue";
 import Experience from "./accordions/Accordions.vue"
 export default {
   name: "Body",
