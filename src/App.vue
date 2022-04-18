@@ -1,8 +1,10 @@
 <template >
-  <div class="container app">
-    <app-header></app-header>
-    <app-body></app-body>
-    <app-footer></app-footer>
+  <div class="main-container">
+    <div class="container app">
+      <app-header></app-header>
+      <app-body></app-body>
+      <app-footer></app-footer>
+    </div>
   </div>
 </template>
 
@@ -14,9 +16,9 @@ import Footer from "./components/Footer/Footer.vue";
 export default {
   name: "App",
   components: {
-    "app-header": Header,
-    "app-body": Body,
-    "app-footer": Footer,
+    'app-header': Header,
+    'app-body': Body,
+    'app-footer': Footer,
   },
 };
 </script>

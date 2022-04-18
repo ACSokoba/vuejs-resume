@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="accordion accordion-flush" id="accordionFlushExample">
-      <div class="accordion-item">
+      <div class="accordion-item mb-5 accordion-shadow">
         <h2 class="accordion-header" id="flush-headingOne">
           <button
             class="accordion-button collapsed custom-accordion-button"
@@ -84,7 +84,7 @@
           </div>
         </div>
       </div>
-      <div class="accordion-item">
+      <div class="accordion-item accordion-shadow">
         <h2 class="accordion-header" id="flush-headingTwo">
           <button
             class="accordion-button collapsed"
